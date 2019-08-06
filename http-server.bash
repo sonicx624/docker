@@ -1,2 +1,2 @@
 #!/bin/bash
-http-server -K ~/xen/host.key -C ~/xen/host.cert -S 2>/dev/null &
+http-server -K /home/austin/docker/host.key -C /home/austin/docker/host.cert -S 2>/dev/null &

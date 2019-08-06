@@ -1,4 +1,4 @@
 #!/bin/bash
-. /home/austin/Documents/sysbenchCPU.bash
-. /home/austin/Documents/sysbenchFileIO.bash
-. /home/austin/Documents/glxgears.bash
+. /home/austin/docker/sysbenchCPU.bash
+. /home/austin/docker/sysbenchFileIO.bash
+. /home/austin/docker/glxgears.bash
